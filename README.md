@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xgenelin
-- 👀 I’m interested in data science, game theory and decision theory.
+- 👀 I’m interested in data science, game theory, decision theory and sports analytics 🏈 🏀.
 - 🌱 I’m currently earning my master's degree in statistics and learning more with python and R.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything related to data science or sports analytics.
 - 📫 How to reach me: xgenelin@gmail.com
 
 <!---
